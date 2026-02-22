@@ -18,7 +18,7 @@ function Footer() {
           </a>
         </span>
         <br />
-        <span>© 2026 Atte Ikola. All rights reserved.</span>
+        <span>© {new Date().getFullYear()} Atte Ikola. All rights reserved.</span>
       </div>
     </footer>
   );
